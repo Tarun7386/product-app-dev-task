@@ -32,19 +32,24 @@ When you're ready, run:
 ```bash
 npm run reset-project
 ```
+## 📸 App Screenshots
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<p align="center">
+  <img src="snapshots/image1.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image2.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image3.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image4.png" width="220" style="margin:10px;" />
+</p>
 
-## Learn more
+<p align="center">
+<img src="snapshots/image7.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image8.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image5.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image6.png" width="220" style="margin:10px;" />
+</p>
 
-To learn more about developing your project with Expo, look at the following resources:
+<p align="center">
+  <img src="snapshots/image10.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image11.png" width="220" style="margin:10px;" />
+</p>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
