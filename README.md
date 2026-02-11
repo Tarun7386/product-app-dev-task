@@ -39,17 +39,19 @@ npm run reset-project
   <img src="snapshots/image2.png" width="220" style="margin:10px;" />
   <img src="snapshots/image3.png" width="220" style="margin:10px;" />
   <img src="snapshots/image4.png" width="220" style="margin:10px;" />
-</p>
-
-<p align="center">
-<img src="snapshots/image7.png" width="220" style="margin:10px;" />
+   <img src="snapshots/image7.png" width="220" style="margin:10px;" />
   <img src="snapshots/image8.png" width="220" style="margin:10px;" />
   <img src="snapshots/image5.png" width="220" style="margin:10px;" />
   <img src="snapshots/image6.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image10.png" width="220" style="margin:10px;" />
+  <img src="snapshots/image11.png" width="220" style="margin:10px;" />
 </p>
 
 <p align="center">
-  <img src="snapshots/image10.png" width="220" style="margin:10px;" />
-  <img src="snapshots/image11.png" width="220" style="margin:10px;" />
+
+</p>
+
+<p align="center">
+ 
 </p>
 
